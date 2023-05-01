@@ -1,0 +1,4 @@
+User-agnet: *
+Allow: /
+
+Sitemap: https://center-ohmik.github.io/sitemap.xml
