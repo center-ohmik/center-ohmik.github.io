@@ -6,6 +6,12 @@ main:
     url: /tags/
   - title: "Search"
     url: /search/
+
+counts:
+  - title: "Category"
+    use: true
+  - title: "Tag"
+    use: true
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"

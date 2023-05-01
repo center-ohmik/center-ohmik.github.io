@@ -286,7 +286,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -294,3 +294,5 @@ defaults:
       show_date: true
       toc: true
       toc_sticky: true
+      sidebar:
+        nav: "counts"
