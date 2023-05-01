@@ -38,7 +38,7 @@
 
   {% if navigation[1].use %}
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label }}</label>
   <ul class="nav__items">
     <span class="nav__sub-title">{{ navigation[1].title }}</span>
     <li>
