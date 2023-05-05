@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-30-01.md",
+                "file": "_posts/2023-05-05-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-30-01.md",
+                "file": "_posts/2023-05-05-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-30-01.md",
+                "file": "_posts/2023-05-05-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-30-01.md"
+                "file": "_posts/2023-05-05-01.md"
               }
             }
           }
@@ -155,5 +155,11 @@
     }
   },
   "active": "03fa5d25e0fcced7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_site/독서/01/index.html",
+    "_site/독서/01",
+    "_site/독서",
+    "_posts/2023-04-30-01.md",
+    "_posts/2023-05-05-01.md"
+  ]
 }
