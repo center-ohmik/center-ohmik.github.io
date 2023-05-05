@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9710fbe6356ac90c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,6 +154,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9710fbe6356ac90c",
+  "active": "03fa5d25e0fcced7",
   "lastOpenFiles": []
 }
