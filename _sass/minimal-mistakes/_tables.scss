@@ -22,12 +22,14 @@ thead {
 }
 
 th {
+  width: 30em;
   padding: 0.5em;
   font-weight: bold;
   text-align: left;
 }
 
 td {
+  width: 30em;
   padding: 0.5em;
   border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
